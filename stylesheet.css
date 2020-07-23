@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.navButton{
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 18px;
+    opacity: 90%;
+
+}
+
+section{
+    text-align: center;
+}
+
+
+.imageWhite{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.image{
+    position: relative;
+    text-align: center;
+    color: black;
+    height:fit-content;
+}
+
+.text{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    
+}
+
+#shopOnline{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.fakeLink{
+    color: cornflowerblue;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    opacity: 80%;
+
+}
